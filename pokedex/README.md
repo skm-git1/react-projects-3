@@ -1,8 +1,11 @@
-# React + Vite
+# Pokedex app
+A react based web app that let's you search your favourite pokemons. 
+Learn about different stats and moves of various pokemons.
+Created using PokeAPI with search functionality and mobile responsive design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run app locally
+- clone the repo
+- cd into the pokedex directory
+- run "npm install"
+- then run "npm run dev"
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
